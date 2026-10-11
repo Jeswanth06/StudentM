@@ -1,5 +1,5 @@
 public class studLogin {
     public void login() {
-        System.out.println("login success");
+        System.out.println("login successfully");
     }
 }
