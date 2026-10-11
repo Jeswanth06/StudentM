@@ -4,6 +4,7 @@
 public class student {
 
     public static void main(String[] args) {
-
+        System.out.println("Jeshu");
+        System.out.println("Monoj");
     }
 }
